@@ -189,5 +189,5 @@ Recommended environment:
 ## Author
 
 **Peteris**
-*Trained & tested on TensorFlow 2.10, Jupyter Notebook, Windows 11, NVIDIA GPU (GTX960M with compute 5.0 - an old and tricky one), CUDA 11.2 + cuDNN 8.1*
+*Trained & tested on TensorFlow 2.10, VS Code Jupyter Notebook, Windows 10, NVIDIA GPU (GTX960M with compute 5.0 - an old and tricky one), CUDA 11.2 + cuDNN 8.1*
 **No memory leaks, even on long runs**
