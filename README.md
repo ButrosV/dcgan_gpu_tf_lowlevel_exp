@@ -100,12 +100,6 @@ Epoch 1/50
 After Epoch 1 | D loss: 0.6723 | G loss: 0.8491.
 If D loss → 0, discriminator is dominating. 
 If G loss is high, generator isn't improving
-
-...
-
-Epoch 10/50
-After Epoch 10 | D loss: 0.4652 | G loss: 1.2074.
-(Generated samples appear)
 ```
 
 Visual output (shown every 10 epochs):
