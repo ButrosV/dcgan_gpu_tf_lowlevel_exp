@@ -1,12 +1,12 @@
 # dcgan_gpu_tf_lowlevel_exp
 helper file for gan taining with tensorflow in a low RAM environment
 
-# Low-Level GAN Training on Fashion-MNIST
+# Low-Level GAN Training Wrapper on Fashion-MNIST
 
 ---
 
 ## Task
-Experiment with **Generative Adversarial Network (GAN)** on the Fashion-MNIST dataset using **low-level TensorFlow operations**. This helper script provides full control over training loops for both the generator and discriminator.
+Experiment with traning wrappers for **Generative Adversarial Network (GAN)** on the Fashion-MNIST dataset using **low-level TensorFlow operations**. This helper script provides full control over training loops for both the generator and discriminator.
 
 Key features:
 
